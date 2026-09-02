@@ -1,0 +1,5 @@
+# Assignment 1 notebooks. Later projects add their own (torch, xgboost, gym).
+numpy>=1.26
+matplotlib>=3.8
+scikit-learn>=1.4
+jupyter>=1.0
