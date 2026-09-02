@@ -6,7 +6,8 @@ CS-4103 Fundamentals of Machine Learning, University of Tulsa
 
 - `assignment/Assignment 1.1.ipynb` and `assignment/Assignment 1.2.ipynb`, the two notebooks you implement.
 - `data/`, the regression and classification datasets the notebooks load.
-- `assignment/Project_1___Linear_and_Logistic_Models.pdf`, the project spec. The same PDF is posted on Harvey.
+- `assignment/Project 1 - Linear and Logistic Regression.pdf`, the project spec. The same PDF is posted on Harvey.
+- `assignment/Project 1 - Explainer.mp4`, a short silent animation of what the project asks: fitting linear models, tuning them, and classifying with logistic regression.
 
 ## Setup
 
